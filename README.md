@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Ahsan Khan</h1>
-<h3 align="center">A passionate and experienced frontend developer from Pakistan</h3>
+<h3 align="center">A passionate and experienced Software Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsan-khan1999&label=Profile%20views&color=0e75b6&style=flat" alt="ahsan-khan1999" /> </p>
 
