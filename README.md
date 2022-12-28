@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Ahsan Khan</h1>
-<h3 align="center">A passionate and experienced Software Engineer from Pakistan</h3>
+<h3 align="center">As a Computer Science graduate from Mohammad Ali Jinnah University with a CGPA of 3.01, I have a strong foundation in the principles of computer science. With almost 2 years of experience as a software engineer in the JavaScript stack, including React and Next.js, I am always looking to expand my knowledge and skills in order to deliver high-quality work. I am driven by a love for technology and a desire to make a positive impact through my work. I am always looking for new challenges and opportunities to grow as a professional and make a difference in the world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsan-khan1999&label=Profile%20views&color=0e75b6&style=flat" alt="ahsan-khan1999" /> </p>
 
