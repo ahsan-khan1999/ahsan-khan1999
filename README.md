@@ -1,8 +1,8 @@
 ### Hi there 👋, My name is Ahsan Khan
 #### I am a full stack application developer.
-![I am a full stack application developer.]
 
-Love to SOLVE problems. I am a passionate full stack application developer. I can develop complex full stack application application like social media application, blogging website etc.
+
+Love to SOLVE problems. I am a passionate full stack application developer. I can develop complex full stack application application like Ecommerce platofrms, service industry products and health sector products including (tele-consultation), and static websites etc.
 
 
 
