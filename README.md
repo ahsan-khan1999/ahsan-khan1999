@@ -25,11 +25,11 @@ Specialties about me:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahsan-khan1999" alt="ahsan-khan1999" /></a> </p>
 
-- 🔭 I’m currently working on [Westfield Bathrooms](http://portal.westfieldbathrooms.co.uk/)
+- 🔭 I’m currently working on [Kaufes](http://kaufes.ch/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahsan-khan1999](https://github.com/ahsan-khan1999)
+- 👨‍💻 Some of my projects are available at [https://github.com/ahsan-khan1999](https://github.com/ahsan-khan1999)
 
-- 💬 Ask me about **React, Js, Html, Css, Bootstrap, Tailwind, Firebase, Redux, Redux Toolkit, Git**
+- 💬 Ask me about **React, Js, NextJS , Html, Css, Bootstrap, Tailwind, Firebase, Redux, Redux Toolkit, Git**
 
 - 📫 How to reach me **ahsan.ak943@gmail.com || +923171017988**
 
