@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Ahsan Khan
-#### I am a full stack web developer.
-![I am a full stack application developer.](https://github.com/thatanjan/thatanjan/blob/main/assets/cules_cover.png)
+#### I am a full stack application developer.
+![I am a full stack application developer.]
 
 Love to SOLVE problems. I am a passionate full stack application developer. I can develop complex full stack application application like social media application, blogging website etc.
 
@@ -8,14 +8,12 @@ Love to SOLVE problems. I am a passionate full stack application developer. I ca
 
 Some years ago, I took two best decision of my life. And they changed my life. They are :
 - Deciding to be a programmer
-- Listening to audio books.
+- develop habit of recursive learning
 
 Specialties about me:
 - Open to learn.
 - Enjoy Solving problems.
 - Works with goal and focus.
-- Do one task at a time and do it properly.
-- Love to listen audio books.
 - Share knowledge.
 - Wants to have quality connection.
 
