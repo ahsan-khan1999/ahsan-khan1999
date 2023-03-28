@@ -1,7 +1,25 @@
-### Hi there 👋
+### Hi there 👋, My name is Ahsan Khan
+#### I am a full stack web developer.
+![I am a full stack application developer.](https://github.com/thatanjan/thatanjan/blob/main/assets/cules_cover.png)
 
-<h1 align="center">Hi 👋, I'm Ahsan Khan</h1>
-<h3 align="center">As a Computer Science graduate from Mohammad Ali Jinnah University with a CGPA of 3.01, I have a strong foundation in the principles of computer science. With almost 2 years of experience as a software engineer in the JavaScript stack, including React and Next.js, I am always looking to expand my knowledge and skills in order to deliver high-quality work. I am driven by a love for technology and a desire to make a positive impact through my work. I am always looking for new challenges and opportunities to grow as a professional and make a difference in the world.</h3>
+Love to SOLVE problems. I am a passionate full stack application developer. I can develop complex full stack application application like social media application, blogging website etc.
+
+
+
+Some years ago, I took two best decision of my life. And they changed my life. They are :
+- Deciding to be a programmer
+- Listening to audio books.
+
+Specialties about me:
+- Open to learn.
+- Enjoy Solving problems.
+- Works with goal and focus.
+- Do one task at a time and do it properly.
+- Love to listen audio books.
+- Share knowledge.
+- Wants to have quality connection.
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsan-khan1999&label=Profile%20views&color=0e75b6&style=flat" alt="ahsan-khan1999" /> </p>
 
