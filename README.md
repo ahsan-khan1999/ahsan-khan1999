@@ -24,7 +24,7 @@ Specialties about me:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahsan-khan1999" alt="ahsan-khan1999" /></a> </p>
 
 - 🔭 I’m currently working on [Buero365]([https://www.portal.buero-365.com/](https://www.portal.buero-365.com/)
-- 🔭 I’m currently working on [Kaufes]([https://staging.kaufes.ch](https://kaufes.ch)
+- 🔭 I’m currently working on [Kaufes]([https://kaufes.ch](https://kaufes.ch)
 - 🔭 I’m currently working on [Parkfor Fly]([https://parkstar.de/](https://parkstar.de/)
 - 🔭 I’m currently working on [Swiss Helden](https://swisshelden.ch/)
 - 🔭 I’m currently working on [Umzugs Hero](https://umzugshero.ch/)
